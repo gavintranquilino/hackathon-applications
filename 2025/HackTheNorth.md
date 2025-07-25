@@ -93,3 +93,12 @@ The project isn't over. Leveraging my robotics background, I am currently explor
 Pitching our solution and seeing people believe in our story was incredibly motivating. To me, "dreaming big" isn't about chasing flashy tech; it's about finding simple, genuine solutions to real human problems. It’s about remembering who I build for: my family, my neighbors, and my community. I believe the most meaningful impact comes from creating things that people genuinely need, and bAIRiatric Supports is more than a project; it’s a reflection of my passion for building a better future with empathy, for people like my grandfather.
 
 ## We love problem-solving - after all, that’s what hacking is all about! Share your favourite riddle or brain teaser with us (and don’t forget the answer - we’re curious too!).
+how many fingers am i holding up
+
+
+
+
+
+
+
+it was 4
