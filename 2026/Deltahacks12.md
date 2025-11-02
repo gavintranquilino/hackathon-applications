@@ -6,11 +6,13 @@ What really gets me is the idea of combining blacksmithing with my engineering s
 It's not just about the skill itself, but about bridging two worlds. The timeless tradition of craftsmanship and the endless possibilities of technology. That's what captivates me about it.
 
 # Why do you want to be a part of DeltaHacks 12? (150 words)
-I've been to DeltaHacks 10 and 11, and honestly, it's been incredible. What makes DeltaHacks different is the space it creates for novelty and bold ideas. Like, you can bring something weird or unconventional and instead of getting weird looks, people actually get hyped about it. It challenges what people think is possible to build.
+I've been to DeltaHacks 10 and 11, and honestly, it's been incredible. What makes DeltaHacks different is the space it creates for novelty and bold ideas. You can bring something weird or unconventional and instead of getting weird looks, people actually get hyped about it. It challenges what people think is possible to build.
 
-A big part of it too is the tradition I've built with my friends. Patrick and I have made it a thing where we come up with these silly, quirky projects that stand out. "Blink Twice If You Need Help" and "Dora's Backpack" were just two examples. There's something special about DeltaHacks because it rewards that kind of thinking.
+DeltaHacks is a hackathon for positive change. It's a less restrictive community and environment compared to other hackathons, which means projects here focus on creating things that genuinely matter. That's exactly the kind of thinking we need.
 
-I want to be part of DeltaHacks 12 because I want to keep building in that space. It's where we get to break the norm and make something that people haven't seen before. Plus, Adam keeps pushing us to come back, and honestly, I'm here for it.
+A big part of it too is the tradition I've built with my friends. Patrick and I have made it a thing where we come up with these silly, quirky projects that stand out. "Blink Twice If You Need Help" and "Dora's Backpack" were just two examples. There's something special about DeltaHacks because it rewards that kind of thinking and pushes us to build for positive impact.
+
+Plus, Adam keeps pushing us to come back, and honestly, I'm here for it.
 
 
 # Talk about a topic that can make you lose track of time, why does it captivate you? (150 words)
@@ -45,8 +47,8 @@ I want to build a platform where developers can contribute, where consumers aren
 It's the ultimate version of right to repair. Giving people back control over the tech they wear every day.
 
 # Is there anything else interesting you want us to know or see? (150 words)
-I'm coming to DeltaHacks 12 with Patrick Gaied, another friend from high school. We've made it a tradition since starting university to hit up all our local hackathons together. It's just become a thing for us now. Adam Suljak was actually the one who introduced me to DeltaHacks in the first place. He keeps pushing us to come back, which is cool because he genuinely cares about the community.
+I'm coming to DeltaHacks 12 with Patrick Gaied and Ryan Guo, both friends from high school. We've made it a tradition since starting university to hit up all our local hackathons together. It's just become a thing for us now. Adam Suljak was actually the one who introduced me to DeltaHacks in the first place and has been pushing us to come back ever since.
 
-The past two years at DH 10 and 11 have been a blast. We've tried to bring something unique to the table, projects like "Blink Twice If You Need Help" and "Dora's Backpack" that are silly but actually useful. This year we're hyped to do it again.
+The past two years at DH 10 and 11 have been a blast. We've brought unique projects to the table like "Blink Twice If You Need Help" and "Dora's Backpack" that are silly but actually useful. This year we're hyped to do it again with a new project we're excited about.
 
-DeltaHacks isn't just another event for us anymore. It's where we learned to embrace unconventional thinking and build weird stuff without worrying about what's "normal." That means something. 
+DeltaHacks has become more than just a hackathon for us. It's where we embrace unconventional thinking and build things without worrying about what's "normal." That community aspect and the focus on positive change really sets it apart. 
